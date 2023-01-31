@@ -1,1 +1,1 @@
-Repo-Session on my first day of github commiting
+Repo-Session on my first day of github commiting.
